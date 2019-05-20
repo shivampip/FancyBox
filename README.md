@@ -9,6 +9,7 @@ pip3 install fancybox
 ```
 
 ## Uses
+* Simple messages
 ```
 import fancybox as fb
 
@@ -20,7 +21,7 @@ fb.warning("name is NULL")
 
 ![Output Screenshot](/imgs/fancybox_messages.png)
 
-Box with title and description
+* Box with title and description
 
 ![Table Screenshot](/imgs/fancybox_table.png)
 
