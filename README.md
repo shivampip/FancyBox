@@ -22,6 +22,11 @@ fb.warning("name is NULL")
 ![Output Screenshot](https://github.com/shivampip/FirstPyPl/blob/master/imgs/fancybox_messages.png)
 
 * Box with title and description
+```
+from fancybox import Box
+box= Box()
+box.makeboxwithheadbold(title, description)
+```
 
 ![Table Screenshot](https://github.com/shivampip/FirstPyPl/blob/master/imgs/fancybox_table.png)
 
