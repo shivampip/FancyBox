@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="fancybox",
-    version="0.0.1",
+    version="0.1.1",
     author="Shivam Agrawal",
     author_email="shivam301296@gmail.com",
     description="Print beautiful message boxes on command line",
