@@ -1,4 +1,9 @@
-from niceprint import makebox
+import fancybox as fb
 
+#https://unicode-table.com/en/#miscellaneous-symbols-and-pictographs
 
-makebox("Nice print is a Python module which allows you to nicely print text data on Windows commad prompt or Linux Terminal. It is my first python package. It's like a demo for me. I really like it.")
+fb.success("TEST SUCCESS")
+fb.error("ileNotFoundException")
+fb.info("This is Fancy Message Box")
+fb.warning("This works only with Python currently")
+
