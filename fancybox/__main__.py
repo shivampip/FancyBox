@@ -18,6 +18,5 @@ def _introduce():
     
 
 if __name__=='__main__':
+
     _introduce()
-    #args= sys.argv
-    #show_args(args) 
