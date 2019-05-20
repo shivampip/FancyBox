@@ -30,3 +30,21 @@ box.makeboxwithheadbold(title, description)
 
 ![Table Screenshot](https://github.com/shivampip/FirstPyPl/blob/master/imgs/fancybox_table.png)
 
+* Create customize box
+
+```
+from fancybox import Box
+box= Box()
+box.bgcolor= 2
+box.fgcolor= 15
+box.border= 11
+box.makebox("NAMES")
+box.addbox("Python")
+box.addbox("Linux")
+box.addbox("Windows")
+```
+
+![Custom box](https://github.com/shivampip/FirstPyPl/blob/master/imgs/custom_box.png)
+
+
+**Happy Programming**
