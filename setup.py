@@ -5,13 +5,13 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="fancybox",
-    version="0.1.1",
+    version="0.1.2",
     author="Shivam Agrawal",
     author_email="shivam301296@gmail.com",
     description="Print beautiful message boxes on command line",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/shivampip/FirstPyPl",
+    url="https://github.com/shivampip/FancyBox",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
