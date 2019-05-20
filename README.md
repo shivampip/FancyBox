@@ -19,9 +19,9 @@ fb.info("Setup Completed")
 fb.warning("name is NULL")
 ```
 
-![Output Screenshot](https://github.com/shivampip/FirstPyPl/tree/master/imgs/fancybox_messages.png)
+![Output Screenshot](https://github.com/shivampip/FirstPyPl/imgs/fancybox_messages.png)
 
 * Box with title and description
 
-![Table Screenshot](https://github.com/shivampip/FirstPyPl/tree/master/imgs/fancybox_table.png)
+![Table Screenshot](https://github.com/shivampip/FirstPyPl/imgs/fancybox_table.png)
 
